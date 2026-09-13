@@ -37,6 +37,7 @@ Omnifret no aloja, indexa, ni facilita la obtención de contenido con copyright 
 - Reusar el generador de diagramas de la biblioteca de acordes para digitación en tabs — no duplicar.
 - Todo import (texto plano o Guitar Pro) converge en el mismo formato de datos interno antes de llegar al renderer.
 - Construir por Fases/Pasos, uno a la vez — no implementar varias fases en una sola sesión. Ver FEATURES.md para el desglose.
+- Usar `lucide-react` para íconos de interfaz, no emoji — el renderizado de emoji varía entre sistemas operativos y navegadores; lucide-react da un ícono consistente en cualquier plataforma.
 
 ## Archivos de referencia
 - `FEATURES.md` — historial de decisiones de features, razonamiento, roadmap por fases (no cargar completo cada vez, consultar cuando sea relevante).
