@@ -3,7 +3,7 @@ name: no-hosting-rule
 description: Usar SIEMPRE que se implemente o modifique cualquier feature relacionada a importar, guardar, compartir o mostrar tablaturas u otro contenido potencialmente protegido por copyright.
 ---
 
-Omnifret nunca aloja, indexa, comparte entre usuarios, ni facilita la obtención de
+PlainChord nunca aloja, indexa, comparte entre usuarios, ni facilita la obtención de
 contenido con copyright (tablaturas de canciones, principalmente). Antes de
 implementar cualquier feature de este tipo, verificar:
 

@@ -4,7 +4,7 @@ description: Usar SIEMPRE antes de dar por terminada una feature que sea visible
 ---
 
 Checklist de consideraciones legales/accesibilidad filtrado específicamente para el
-alcance real de Omnifret — no es una lista genérica, cada ítem está evaluado contra
+alcance real de PlainChord — no es una lista genérica, cada ítem está evaluado contra
 lo que este proyecto realmente hace.
 
 ## Aplica ahora (revisar en cada feature relevante)
@@ -48,16 +48,16 @@ lo que este proyecto realmente hace.
 
 ## Aplica solo si se agrega la feature correspondiente (no aplica todavía)
 
-- **Política de cookies / aviso de cookies / tracking**: no aplica mientras Omnifret no
+- **Política de cookies / aviso de cookies / tracking**: no aplica mientras PlainChord no
   use cookies de terceros ni analítica de comportamiento. Si se agrega analítica
   (incluso "anónima"), revisar estos tres ítems juntos antes de lanzar esa feature.
 - **Detalles reales de negocio** (razón social, dirección, etc.): baja prioridad para
   un proyecto académico individual; revisar si esto alguna vez se convierte en un
   producto con pagos reales.
 
-## No aplica a Omnifret (y por qué)
+## No aplica a PlainChord (y por qué)
 
 - **Política de reembolsos**: no hay procesamiento de pagos real todavía (premium
   está marcado "próximamente"). Revisar esto recién cuando exista cobro real.
-- **Eliminar reseñas falsas**: Omnifret no tiene sistema de reseñas o testimonios de
+- **Eliminar reseñas falsas**: PlainChord no tiene sistema de reseñas o testimonios de
   usuarios.

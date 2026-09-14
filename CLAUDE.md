@@ -1,4 +1,4 @@
-# CLAUDE.md — Omnifret
+# CLAUDE.md — PlainChord
 
 ## Qué es
 App web gratuita de aprendizaje visual de guitarra. Centraliza en una pantalla lo que hoy está disperso: diagramas de acordes, notación técnica de tablatura, dificultad de transición entre acordes.
@@ -14,7 +14,7 @@ Referencia objetiva tipo wiki. **No** adaptativo/gamificado tipo Duolingo. La di
 - Persistencia local: IndexedDB (no localStorage — límite de tamaño insuficiente)
 
 ## Regla legal central — aplica a toda feature nueva
-Omnifret no aloja, indexa, ni facilita la obtención de contenido con copyright (tablaturas de canciones). El usuario importa su propio contenido; Omnifret solo lo visualiza. Nunca compartido entre usuarios, nunca hosteado con fines de distribución. Ver skill `no-hosting-rule` y FEATURES.md para el razonamiento legal completo.
+PlainChord no aloja, indexa, ni facilita la obtención de contenido con copyright (tablaturas de canciones). El usuario importa su propio contenido; PlainChord solo lo visualiza. Nunca compartido entre usuarios, nunca hosteado con fines de distribución. Ver skill `no-hosting-rule` y FEATURES.md para el razonamiento legal completo.
 
 ## Alcance MVP
 - Biblioteca de acordes (diagramas generados desde datos)
